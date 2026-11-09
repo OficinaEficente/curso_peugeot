@@ -8,4 +8,4 @@ Conecte este repositório a um projeto Cloudflare Workers e use `npx wrangler de
 
 ## Inscrições
 
-Os botões apontam para o WhatsApp oficial com mensagem específica do Peugeot. Para ativar a venda direta, configure o formulário AtendeIA do Peugeot com seu checkout. Preço, parcelamento, prazo de acesso, certificado e suporte precisam ser confirmados para este curso.
+Os três botões abrem o formulário AtendeIA do Peugeot. Confirme o checkout Eduzz no painel do formulário e valide o redirecionamento após publicar. Preço, parcelamento, prazo de acesso, certificado e suporte precisam ser confirmados para este curso.
